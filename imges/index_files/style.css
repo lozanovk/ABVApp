@@ -1,0 +1,43 @@
+.card{
+    margin-bottom: 10px;
+}
+
+.qtys{
+    width: 50px;
+    float: left;
+}
+.sel{
+    width: 10px;
+    float: right;
+}
+
+input{
+
+text-align: center;
+}
+
+body{
+    background: url("../imges/space.gif");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    font-family: 'Press Start 2P', cursive;
+}
+
+.card{
+    background-color: #8fa0b5;
+    border-color:#3582db;
+    border-width: thick;
+    width: 85%;
+}
+
+.maintitle{
+
+    color : #c92424;
+}
+
+.winner{
+    color :#ffdd61;
+}
