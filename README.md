@@ -13,13 +13,13 @@ than standard macro-brewed beverages. </p>
 <p> Simply converting the supplied quatnity unit into ounces and multiplying that value by the ABV amount will give the numerator. Then dividing by the price will the ABV/$/Oz ratio.</p>
 </p> <strong >Example: </strong><br>
 <br>
-Beverage 1
+Beverage 1<br>
 ABV: 5.5%<br>
 Size: 12 oz<br>
 Cost $5.50
 ABV/$/oz: 12.00
-<br>
-Beverage 2
+<br><br>
+Beverage 2<br>
 ABV: 8.2%<br>
 Size: 8 oz<br>
 Cost $5.00
