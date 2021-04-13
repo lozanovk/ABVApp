@@ -26,3 +26,6 @@ Cost $5.00
 ABV/$/oz: 13.12
 <br>
 <p> As shown above, Beverage 2 has the higher calculated value, meaning you get more for your money.</p>
+
+<br>
+<a href="https://lozanovk.github.io/ABVApp/" target="_blank">Demo</a>
