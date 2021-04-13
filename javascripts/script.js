@@ -25,8 +25,7 @@ $(document).ready(function () {
         if (drinkAry.length > 1){
             calculateBest();
         }
-       //drinkAry.splice(drinkAry.findIndex(item => item.drinknum == targetStr.replace('del','')), 1)      
-        //counter -= 1
+
     });
 
 
@@ -88,5 +87,5 @@ function calculateBest(){
     var maxValue = Math.max(...drinkAry.map(o => o.ado), 0);
     var indxVal = drinkAry.findIndex(obj => obj.ado == maxValue);
     $('.winner').attr('hidden',true);
-    $('#best' + indxVal).attr('hidden',false);
+    $('#best' + drinkAry[indxVal].drinknum).attr('hidden',false);
 }
