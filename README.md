@@ -16,13 +16,13 @@ than standard macro-brewed beverages. </p>
 Beverage 1<br>
 ABV: 5.5%<br>
 Size: 12 oz<br>
-Cost $5.50
+Cost $5.50<br>
 ABV/$/oz: 12.00
 <br><br>
 Beverage 2<br>
 ABV: 8.2%<br>
 Size: 8 oz<br>
-Cost $5.00
+Cost $5.00<br>
 ABV/$/oz: 13.12
 <br><br>
 <p> As shown above, Beverage 2 has the higher calculated value, meaning you get more for your money.</p>
